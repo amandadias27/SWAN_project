@@ -1,2 +1,2 @@
-# SWAN_project
+# SWAN Project
 Developing a predictive model of customers most likely to churn using customer data
