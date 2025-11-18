@@ -1,4 +1,4 @@
-# Swan Telecom --- Customer Churn Prediction
+# SWAN Project - Customer Churn Prediction
 
 This project develops a machine learning solution to predict which
 customers of Swan Telecom are most likely to churn. Identifying
@@ -37,7 +37,7 @@ efforts more effectively.
 
 ## Reports and Presentation Material
 
-### Swan Telecom Churn Prediction Summary.pdf
+### SWAN Telecom Churn Prediction Summary.pdf
 
 -   A written summary of the analysis, modelling approach, key findings,
     and recommendations.
