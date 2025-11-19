@@ -5,6 +5,7 @@ customers of Swan Telecom are most likely to churn. Identifying
 high risk customers early enables the company to target retention
 efforts more effectively.
 
+Team members: Amanda Dias-Jayasinghe, Ginny Rendall and Jake Daniels.
 ## Notebooks
 
 ### EDA Notebook.ipynb
